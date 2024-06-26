@@ -18,7 +18,7 @@ This repository contains the code for my personal portfolio website, consisting 
 - Contact form or direct contact information for communication.
 
 ### How to Use:
-.
+Here is the link to view my portfolio website: https://vishnu899.github.io/portfolio__/
 
 
 ### Contact:
