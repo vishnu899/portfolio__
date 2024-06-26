@@ -1,6 +1,4 @@
-# portfolio__Certainly! Here's an updated description for your GitHub README file, considering you have a portfolio website with two pages (home and contact):
 
----
 
 ## Portfolio Website
 
@@ -20,19 +18,11 @@ This repository contains the code for my personal portfolio website, consisting 
 - Contact form or direct contact information for communication.
 
 ### How to Use:
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate into the project directory: `cd your-repository`
-3. Open `index.html` or `home.html` in a web browser to view the home page.
-4. Navigate to `contact.html` to view the contact page.
+.
 
-### Screenshots:
-[Include screenshots or GIFs of your website here if possible.]
-
-### License:
-This project is licensed under the [MIT License](link-to-license).
 
 ### Contact:
-[Your Name] - [Your Email Address]
+[vishnu] - [gayathriramaiyan82@gmail.com]
 
 ---
 
