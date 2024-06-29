@@ -78,7 +78,7 @@ li {
 .section-three{
     background-color:  #6462fd;
     color: black;
-    display: flex;
+    display: inline-block;
     padding: 20px;
     margin-: 0px;
    height: 200px;
@@ -144,4 +144,7 @@ li {
 }
 .section-five{
     margin: 0;
+}
+.container{
+    padding: 10px;
 }
